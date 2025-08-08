@@ -5,8 +5,7 @@ This site showcases my projects, skills, and achievements in the field of web de
 
 ## 🔗 Live Demo
 
-Visit: [Live Portfolio]([https://your-portfolio-link.com](https://portfolio-web-khaki-nine.vercel.app/))  
-(Replace with your actual deployed link)
+Visit: [Live Portfolio] (https://portfolio-web-khaki-nine.vercel.app/))  
 
 ---
 
